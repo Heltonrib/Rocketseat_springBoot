@@ -1,21 +1,21 @@
-# ✅ TodoList API (Java + Spring Boot)
+# TodoList API (Java + Spring Boot)
 
 API REST simples para **gerenciamento de tarefas (to-do list)**, desenvolvida durante um mini-curso da **Rocketseat** usando **Java + Spring Boot**.
 
-> ⚠️ Observação: neste repositório o projeto Spring Boot está dentro da pasta **`todolist/`**.
+> Observação: neste repositório o projeto Spring Boot está dentro da pasta **`todolist/`**.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- Criar usuário
-- Criar tarefa (associada ao usuário autenticado)
-- Listar tarefas do usuário
+- Criar utilizador
+- Criar tarefa (associada ao utilizador autenticado)
+- Listar tarefas do utilizador
 - Atualizar tarefa (somente o dono pode editar)
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Java 17**
 - **Spring Boot 3.4.2**
@@ -27,14 +27,14 @@ API REST simples para **gerenciamento de tarefas (to-do list)**, desenvolvida du
 
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 - Java **17+**
 - Maven (ou usar o **Maven Wrapper** que já vem no projeto)
 
 ---
 
-## 🚀 Como executar (local)
+## Como executar (local)
 
 1. Clone o repositório
 2. Entre na pasta do projeto:
